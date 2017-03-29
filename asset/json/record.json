@@ -1,0 +1,92 @@
+{
+	"firstportion":[
+		{
+			"news_title":"Google’s Firebase developer platform gets better analytics, crash reporting and more"
+		},
+		{
+			"news_title":"Zencaster makes it easier to record high-quality podcast audio"
+		},
+		{
+			"news_title":"Snapchat’s Spectacles are now on sale near Big Sur in California"
+		},
+		{
+			"news_title":"Why the next great SaaS company will look nothing like Salesforce"
+		},
+		{
+			"news_title":"Watch the first Valerian trailer reveal a promising Fifth Element successor"
+		}
+	],
+	"about_us":[{
+		"about":"techworld is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news.Founded in June 2005, techworld and its network of websites now reach over 12 million unique visitors and draw more than 37 million page views per month. The techworld community includes more than 2 million friends and followers on Twitter,Facebook,LinkedIn, Google and other social media.Crunchbase, techworlds open database about startup companies, people and investors, has become the leading statistical resource for technology companies and transactions.The company hosts major conferences and events, including the Disrupt series, The Crunchies Awards, and various meet-ups worldwide serving as community platforms for industry conversation and collaboration. Head over to our Advertise page to learn more about how you can get involved with our amazing community of readers."
+		}],
+	"backstory":[
+		{
+			"story":"techworld's story began on June 11, 2005, when founder Michael Arrington launched a blog from his home in Atherton, CA, as a way to share information and get informed about people and companies that were making waves in the burgeoning world of Web 2.0. At the time, Arrington was founding another start-up, Edgeio, and blogging in his spare time; yet, in less than a year and a half, techworld was drawing several million page views every month and the attention of top entrepreneurs and VCs.Before long, Arrington was launching supplemental sites to cover startups and gadgets to nearly every fold of the tech industry, and he began to throw parties at his home in Silicon Valley, which have since grown into some of the largest and most popular conferences in the technology arena. The techworld Disrupt conference series, for example, combines leading innovator interviews with a startup launch competition and attracts over 2,000 attendees in New York and San Francisco.The big break for techworld came, however, in October 2006 when Arrington first broke the news of YouTube's acquisition by Google, landing the hobbyist on the homepage of the Wall Street Journal's Marketplace section and marking an important turning point for the site - and for new media. Thereafter, Arrington's techworld was no longer relegated to simply providing opinion about breaking news; it became a complete news outlet in its own right. By 2008, Time Magazine recognized Arrington as one of the World's 100 Most Influential People.In 2007, Arrington brought CEO Heather Harde and co-editor Erick Schonfeld into the techworld ranks. Harde was a tenured media veteran, having grown through the rank and file of various News Corporation properties. Schonfeld had previously been editor-at-large of Business 2.0, ran its main blog, Next Net, hosted an online video series on CNNMoney, and organized a regular series of industry conferences. Harde and Schonfeld have since helped build a talented stable of writers, engineers, and contributors.In September 2010, techworld was acquired by AOL and is now one of its leading power brands. Today, techworld has moved out of Arrington's Atherton ranch, re-locating to San Francisco, and now boasts over 40 employees, as it continues to become one of the most influential news brands in the tech industry, maintaining its place at the top of TechMeme's Leaderboard as the #1 source of breaking tech news."
+		}
+	],
+
+	"allnews":[
+		{
+		"news_title":"Zuckerberg claims 99% of Facebook posts denies fake news there influenced election",
+		"news_image":"feature_post.png",
+		"news_detail":"In case you missed it, last night Mark Zuckerberg published a response to accusations that “fake news” on Facebook influenced the outcome of the U.S. election, and helped Donald Trump to win.The CEO claimed that at least 99% of news content on Facebook was “authentic.” Zuckerberg wrote:“Of all the content on Facebook, more than 99% of what people see is authentic. Only a very small amount is fake news and hoaxes. The hoaxes that do exist are not limited to one partisan view, or even to politics. Overall, this makes it extremely unlikely hoaxes changed the outcome of this election in one direction or the other.”Facebook boasts 1.79 monthly active users, and it generated $7.01 billion in revenue in the third quarter of 2016.The company has not enumerated the volume of posts that were categorized as news, and distributed through Facebook’s News Feed during the months leading up to the election.In its earnings reports, Facebook does not break out how much of its revenue comes from political advertising or the promotion of news posts. That makes it hard for the public to evaluate what the impact of even 1% of “hoax” news could have been on users of Facebook who had the right to vote in the U.S. election."
+		},
+		{
+			"news_title":"Google’s Firebase developer platform gets better analytics, crash reporting",
+			"news_image":"news1.jpg",
+			"news_detail":"Google today launched the first major update to its Firebase backend-as-a-service platform since it first announced its plans to turn the service into its unified platform for developers six months ago. While Facebook decided to shut down its competing Parse service earlier this year, Google decided to double down on Firebase (which it acquired in 2014) as its flagship development platform for app developers on iOS and Android, as well as web developers.Today’s update includes the 1.0 launch of Firebase’s crash reporting tool, improved real-time analytics that are now also integrated into Google’s BigQuery database service, better support for game developers who use Unity, and the launch of a new Firebase Udacity course for iOS and Android developers.As Ben Galbraith, who leads product and developer relations in Google’s Developer Products Group, told me, building apps today is far more complex than it was two or three years ago. When “mobile-first” became a thing, you only had to consider a few screen sizes and platform. Today, your users may be on hundreds of different devices. In addition to this platform challenge, though, you also have to consider all of the infrastructure work that goes into running a modern app, be that authentication, real-time data syncing, A/B testing or crash analytics."
+		},
+		{
+			"news_title":"Zencaster makes it easier to record high-quality podcast audio - new feature",
+			"news_image":"news2.jpg",
+			"news_detail":"With podcasting growing rapidly as a medium, a new generation of audio-recording tools are appearing. Zencastr is a great example. The company’s new product, launched today, is designed to make it easier to record high-quality audio for interviewees based anywhere in the world.The problem the company is solving is that phone interviews sound horrible, and VOIP solutions like Skype often don’t degrade very well. In other words: A poor internet connection can ruin an interview. Instead of recording audio that comes through a phone line, Zencastr enables the interviewer to record the audio on the interviewee’s computer. There are other ways of doing that, of course (such as explaining to a podcast guest how to record audio on a computer, iPhone or separate recorder), but that assumes that the interviewees are technically adept enough to be able to record, save and transmit the files, which isn’t always the case."
+		},
+		{
+			"news_title":"Snapchat’s Spectacles are now on sale near Big Sur in California 2016",
+			"news_image":"news3.png",
+			"news_detail":"The Big Sur Snapbot is sold out, so if you’re looking to grab a pair, you’ll have to wait for the next popup location. Spectacles are on sale again, in their second ever pop-up location (the first was at Venice Beach in LA on November 10) – and people in and around Loma Vista near Big Sur state park are the new lucky lotto winners who can now purchase a pair of Snapchat’s Snap-capturing eyewear.The new location is way more remote than the first, but judging by the example of the Snapbot vending machine’s stint in LA, it should be selling Spectacles through today, and be refilled multiple times provided there’s interest (UPDATE: Snapchat staff on location are apparently telling people in line the vending machine in BIg Sur won’t be restocked today once it sells out). The long lines from Friday, along with high selling prices on eBay that are hitting 20x the original Spectacles spelling price, suggest a lot of people could be looking to pick them up – but the somewhat remote location might make for a very different scene."
+		},
+		{
+			"news_title":"Why the next great SaaS company will look nothing like Salesforce why this happen",
+			"news_image":"news4.jpg",
+			"news_detail":"For years, a truism in software investing was that the value of application software lies in data, not in technology. Companies like Salesforce, Workday, and ServiceNow are valuable because they are the “system of record” (SoR), or single source of truth, for their customers’ most valuable information, such as customer records or employee data.As a result, they become deeply embedded in their customers’ business processes, making them hard to rip out. That gives them tremendous revenue predictability and pricing power. The technology itself — databases combined with workflow engines — is not particularly innovative; it’s the information captured by the technology that’s important.The newest crop of software applications turns this logic on its head. They mimic consumer companies by using technology as a “wedge” to gain widespread adoption and don’t even try to become systems of record."
+		},
+		{
+			"news_title":"Watch the first time Valerian trailer reveal promising 5th Element successor",
+			"news_image":"news5.png",
+			"news_detail":"Among science fiction films, Luc Besson’s 1997 epic The Fifth Element enjoys special status as a classic that’s unique among others in the category, with an indulgent, artistic flair and beautiful set pieces that differ dramatically from the more drab and worn environs of movies like Star Wars and Blade Runner. Valerian and the city of a Thousand Planets, Besson’s upcoming sci-fi film based on a successful graphic novel, looks like it will boast a strong, similar signature style.I don’t want to put the cart ahead of the horse here, but it’s going to be great and we’re all going to love it so much."
+		},
+		{
+		"news_title":"FriendFinder Networks hack reportedly exposed over 412 million accounts",
+		"news_image":"second_portion1.jpg",
+		"news_detail":"If you have an account on AdultFriendFinder, Cams.com, Penthouse, Stripshow and/or iCams.com — and reused it on other sites — you should probably change your password. FriendFinder Networks, the parent company of those sites, has reportedly been hacked, resulting in the leak of of over 412 million accounts, according to Leaked Source (h/t to CSO). For context of just how big this breach is, the Ashley Madison hack affected 32 million people.Hackers reportedly breached FriendFinder Networks last month, and gained access to over 300 million accounts on AdultFriendFinder, which markets itself as the “World’s largest sex & swinger community.” The hack also exposed over 62 million accounts on Cams.com, a site for live webcam “sex chat,” over 7 million on Penthouse.com, over 1.4 million on Stripshow.com, over 1.1 million on iCams.com and a little over 35,000 on an “unknown domain.”"
+		},
+		{
+		"news_title":"Pro-Trump CEO gets booted from Y Combinator over harassment concerns",
+		"news_image":"second_portion2.jpg",
+		"news_detail":"Andrew Torba, founder of conservative social network Gab.ai, has been removed from Y Combinator’s alumni network.To be clear, Gab.ai isn’t a part of YC — instead, Torba participated in the incubator through his previous startup, Kuhcoon (now known as Automate Ads). However, his login to YC’s private social network, Bookface, has now been disabled.“Once you’re purged from the network, you’ve lost all the ability to interact and network and post job listings and connect with different founders,” Torba said.While Torba paints this as a free speech issue, YC told BuzzFeed that he was kicked out for “for speaking in a threatening, harassing way toward other YC founders” — particularly in this Facebook comment:All of you: fuck off. Take your morally superior, elitist, virtue signaling bullshit and shove it.I call it like I see it, and I helped meme a President into office, cucks.In Torba’s telling, this was just the culmination of a longer process of disenchantment with Silicon Valley liberalism in general and YC in particular. He described himself as a lifelong “conservative Republican Christian,” a fact he said he hid at first because he worried “it would be a hindrance to my career — which proved to be true.”"
+		},
+		{
+		"news_title":"Samantha Payne of Open Bionics’ 3D prosthetics to speak at Disrupt London",
+		"news_image":"third_portion1.jpg",
+		"news_detail":"TechCrunch Disrupt in London is on December 5-6! Not long now! Come talk about new technology, your startup, raising money and the future. Grab tickets here. Amongst the many speakers already announced, today we’re delighted to say Samantha Payne Co-Founder and COO of Open Bionics which recently unveiled the ability to download and 3D print-off limbs by open sourcing their designs.Samantha co-founded Open Bionics, an award-winning robotics company that is changing the face of the prosthetics industry. Samantha’s startup is developing bionic hands in the style of superheroes, enabling young amputees to become their favourite characters, just like Iron Man!"
+		},
+		{
+		"news_title":"CareCloud raises $31.5 million in Series C for its cloud health care first time",
+		"news_image":"third_portion2.jpg",
+		"news_detail":"CareCloud, the revenue management and health IT platform, announced it has raised $31.5 million in strategic Series C financing from The PNC Financial Services Group, Inc., First Data Corporation and Blue Cloud Ventures.Previous investors also participated in the round, including Norwest Venture Partners, Intel Capital, Tenaya Capital and Adams Street Partners. The company previously entered into a debt financing agreement with Wellington Financial to provide access to additional growth capital.CareCloud launched in 2009 to help connect physicians to electronic health records. It now manages more than $4 billion in annualized accounts receivable on its integrated clinical and financial platform but faces stiff competition from PracticeSuite and larger EHR managers such as Practice Fusion. dealing with the sometimes overwhelming electronic records filing within medical practices."
+		},
+		{
+		"news_title":"Echo app aims to take the hassle out of ordering repeat prescriptions",
+		"news_image":"third_portion3.jpg",
+		"news_detail":"A UK startup is angling to build a business out of simplifying the repeat prescription ordering process for NHS GP surgeries via an app, called Echo, that lets patients use their smartphones to make a request for more of their usual medication from their doctor.The app works by sending a user’s request to their GP, with approved prescriptions dispensed by Echo’s partner pharmacies after they receive a GP’s instruction — with the user granting Echo the authority to nominate a pharmacy partner to fulfill their electronic prescription requests on their behalf.Prescriptions are dispatched to users for free by the pharmacy via Royal Mail (second class post) meaning, from a user point of view, there’s no need to go to the GP or the pharmacy to obtain a repeat prescription. They just make an order via the app, pay for the prescription (unless they qualify for free NHS prescriptions) and wait to get their medication delivered."
+		},
+		{
+		"news_title":"WhatsApp launches video calling for everyone - new feature of whatsapp",
+		"news_image":"third_portion4.jpg",
+		"news_detail":"WhatsApp wants to be international cross-platform FaceTime. Today, the Facebook-owned chat service WhatsApp is officially launching video calling for its over 1 billion users worldwide on iOS, Android and Windows Phone. Its debut follows a series of reports from people who recently found the feature had been enabled in beta versions of WhatsApp on Android and on Windows Phone – an indication that a public debut was on the horizon.To use the new feature, WhatsApp users can hit the call button in the top right corner of a conversation, which will bring up an overlaid interstitial asking if you want to voice or video call the friend or family member you’re chatting with. To kick off the video call, you simply select the “video call” option from this screen.During the call itself, you can switch between the forward-facing and rear camera, mute the call or press the red button to hang up. It seems the user interface varies slightly on Android and iPhone in terms of where the picture-in-picture video feed is displayed, as well as the buttons’ size, lineup and placement."
+		}
+		
+	]
+
+}
